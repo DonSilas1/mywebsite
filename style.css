@@ -1,0 +1,66 @@
+body{
+    background-color: white;
+    background-size: cover;
+   
+}
+
+.first{
+    width: 1200px;
+    height: 118px;
+}
+
+nav{
+    background-color:rgb(255, 0, 0);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+
+.second h1{
+    width: 1200px;
+    height: 400px;
+    color: red;
+}
+
+.third{
+    width: 1200px;
+    height: 400px;
+    color: red;
+}
+
+.fourth h1{
+    width: 1200px;
+    height: px40;
+    color: red;
+
+}
+
+.fifth{
+    width: 1200px;
+    height: 40px;
+    color: red;
+}
+
+.six h1{
+    color: red;
+
+}
+
+.seven h1{
+    color: red;
+
+}
+
+.eight h1{
+    color: red;
+
+}
+
